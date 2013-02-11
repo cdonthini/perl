@@ -1,0 +1,38 @@
+{
+   "abstract" : "unknown",
+   "author" : [
+      "unknown"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.30, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Lyrics-Fetcher-Google",
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "HTML::LinkExtractor" : "0",
+            "HTML::TokeParser::Simple" : "0",
+            "LWP::UserAgent" : "0",
+            "Lyrics::Fetcher" : "v0.3.1",
+            "Net::Google" : "0.53",
+            "String::Similarity" : "0",
+            "Test::Simple" : "0.44"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.02",
+   "x_installdirs" : "site",
+   "x_version_from" : null
+}
