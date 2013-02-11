@@ -74,5 +74,5 @@ sub test(){
 	print($test . " ---> "); normalize($test);
 }
 
-test(); # testing valid inputs
+test(); 
 
