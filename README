@@ -1,0 +1,5 @@
+translation.pl - takes a string input '12_7' where 12 is the value with base 7 and converts it into decimal format.
+
+calculator-notPerfect.pl - takes an expression with different bases and calculates the math. But not perfect.
+
+calculator.pl - takes an expression with different bases and calculates the math. Correct values. only works for add,sub,mul. 
